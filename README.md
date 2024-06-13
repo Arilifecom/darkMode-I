@@ -1,3 +1,8 @@
-Animations on page enter and exit<br>
-Enter: Gradient from left to right<br>
-Exit: Gradient from right to ledt
+<h1>Next.js🌟DarkModeSwitcher</h1>
+<h2>External Libraries used in this project:</h2>
+
+<ul>
+  <li>Tailwind css</li>
+</ul>
+
+
